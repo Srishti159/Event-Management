@@ -1,0 +1,17 @@
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\config\WebConfig.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\controller\AttendeeController.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\controller\EventController.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\controller\TaskController.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\dto\AttendeeDTO.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\dto\EventDTO.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\dto\TaskDTO.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\EventmanagementApplication.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\model\Attendee.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\model\Event.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\model\Task.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\repository\AttendeeRepository.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\repository\EventRepository.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\repository\TaskRepository.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\service\AttendeeService.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\service\EventService.java
+C:\Users\Srishti Kumari\Desktop\Event-Management\event-management-backend\src\main\java\com\example\eventmanagement\service\TaskService.java
