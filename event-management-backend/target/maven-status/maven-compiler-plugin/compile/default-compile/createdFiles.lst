@@ -1,0 +1,17 @@
+com\example\eventmanagement\controller\TaskController.class
+com\example\eventmanagement\EventmanagementApplication.class
+com\example\eventmanagement\controller\EventController.class
+com\example\eventmanagement\dto\TaskDTO.class
+com\example\eventmanagement\model\Attendee.class
+com\example\eventmanagement\model\Task.class
+com\example\eventmanagement\config\WebConfig.class
+com\example\eventmanagement\service\EventService.class
+com\example\eventmanagement\dto\EventDTO.class
+com\example\eventmanagement\model\Event.class
+com\example\eventmanagement\repository\EventRepository.class
+com\example\eventmanagement\repository\TaskRepository.class
+com\example\eventmanagement\dto\AttendeeDTO.class
+com\example\eventmanagement\repository\AttendeeRepository.class
+com\example\eventmanagement\service\TaskService.class
+com\example\eventmanagement\service\AttendeeService.class
+com\example\eventmanagement\controller\AttendeeController.class
